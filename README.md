@@ -18,7 +18,8 @@ ___
 [<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 [<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-
+![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rex-1031&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rex-1031&theme=blue-green)
 <!--
 **Rex-1031/Rex-1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
