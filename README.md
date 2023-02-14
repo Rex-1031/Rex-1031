@@ -2,7 +2,7 @@
 😄 Pronouns: he/him  
 
 ## Hi 🖐
-I'm Steve, a Full-Stack Web Developer with a passion for building web apps that focus on UI/UX and Accessibility. 
+I'm Steve, a Full-Stack Web Developer. 
 
 ___
 
